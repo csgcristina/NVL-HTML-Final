@@ -1,0 +1,7 @@
+En primer lugar he diseñado sobre papel cómo querría que fuese la página a crear.
+La he dividido en 5 secciones: cabecera, about, servicios, prcios y formulario de contacto.
+He decidido trabajar con divs y tablas para estructurar cada sección.
+He creado enlaces que conectaran la cabecera con las distintas secciones y un enlace más en el pie de página que te devolviese a la cabecera.
+En el formulario he utilizado campos con valor de texto y selección de opciones.
+He añadido u botón de enviar en el formulario de contacto. Por algún motivo que desconozco, escribiendo sólo enviar se muestra como "enviar consulta" y he decidido dejarlo así, a falta de más conocimientos.
+Por último, he insertado una imagen y un <hr>.
